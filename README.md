@@ -9,7 +9,6 @@
 
 ## 課題
 - 公式ガイドの [Hello World](https://guides.github.com/activities/hello-world/) にしたがって、一連の操作をマスターし、このファイルを編集すること。
-- いくつか日本語訳も出ているようなので、自信がない人はそれを参照してもよい。たとえば、[Rashyn さんの Qiita](https://qiita.com/Rashyn/items/8a789f75437b880966e6)
-- ただし、このくらいの英語は読めるようになって欲しい
+- 日本語だとこちら [Hello World](https://docs.github.com/ja/get-started/quickstart/hello-world)
 - **Step 5 の 3 （ブランチの削除）は行わないように**。このステップが評価対象である。
 - `master` を直接書き換えても全く評価されないので注意。**ブランチの作成→プルリクエストの発行→マージ** の手順をきちんと踏むこと
